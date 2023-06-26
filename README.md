@@ -21,6 +21,7 @@ CREATE TABLE customer (
     ->     alamat VARCHAR (45),
     ->     email VARCHAR (45));
 ```
+```
 CREATE TABLE sopir (
     ->     id_sopir VARCHAR (10) PRIMARY KEY,
     ->     id_kendaraan VARCHAR (10),
