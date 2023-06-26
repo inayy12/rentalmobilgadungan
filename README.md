@@ -97,7 +97,7 @@ INSERT INTO transaksi (id_transaksi, id_customer, id_sopir, id_kendaraan, tgl_pe
     -> ('06', 'CS002', 'SP001', 'KDR005', '2023-06-17', '2023-06-17', '2023-06-18', 'SELESAI', '6000000', 'CASH');
 ```
 
-### UPDATE
+### READ
 
 ```
 SELECT * FROM customer;
