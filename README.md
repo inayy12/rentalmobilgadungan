@@ -145,3 +145,7 @@ UPDATE transaksi SET metode_pembayaran = 'CASH' WHERE id_transaksi = '02';
 ### DELETE
 
 
+# SQL JOIN
+
+
+
