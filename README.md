@@ -56,6 +56,7 @@ ALTER TABLE transaksi ADD CONSTRAINT FOREIGN KEY (id_sopir) REFERENCES sopir (id
 ALTER TABLE transaksi ADD CONSTRAINT FOREIGN KEY (id_kendaraan) REFERENCES kendaraan (id_kendaraan);
 ALTER TABLE sopir ADD CONSTRAINT FOREIGN KEY (id_kendaraan) REFERENCES kendaraan (id_kendaraan);
 ```
+![image](https://github.com/inayy12/rentalmobilgadungan/assets/115867315/bf3a2570-3e93-4f40-85c4-723ae2e40b1d)
 
 # SQL CURD
 ### CREATE
